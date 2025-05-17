@@ -51,7 +51,7 @@ API Testing · Unit Testing
 
 ---
 
-<br clear="both">
+### ⚡ Contributions
 
 <img src=https://github.com/smi-t/Smit-Viradiya/blob/output/snake.svg>
 
