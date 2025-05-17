@@ -51,7 +51,7 @@ API Testing · Unit Testing
 
 ---
 
-![Snake animation](https://github.com/smi-t/Smit-Viradiya/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/smi-t/Smit-Viradiya/output/github-snake.svg)
 
 ---
 
