@@ -51,10 +51,6 @@ API Testing · Unit Testing
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/smi-t/Smit-Viradiya/output/github-snake.svg)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
